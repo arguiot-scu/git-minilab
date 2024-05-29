@@ -1,6 +1,7 @@
 #include "myclass.h"
 
 MyClass::MyClass() {
+  // A change
 }
 
 MyClass::MyClass(int x_) { 
